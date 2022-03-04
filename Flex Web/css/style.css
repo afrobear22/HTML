@@ -1,0 +1,177 @@
+body {
+    margin: 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+main {
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    background-image: url(../images/coding.jpg);
+    width: 100%;
+    height: 500px;
+}
+
+.title {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title h1 {
+    font-size: 40px;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.title p {
+    text-align: center;
+    width: 700px;
+    color: white;
+}
+
+.title .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a .button {
+    background-color: #333333;
+    margin-top: 20px;
+    padding: 20px;
+    border: #666666 solid 1px;
+    width: 100px;
+    height: 15px;
+}
+
+.development {
+    width: 100%;
+    height: 180px;
+    justify-content: center;
+    align-items: center;
+}
+
+.development h2 {
+    display: flex;
+    color: #333333;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-dev {
+    display: flex;
+    color: #333333;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row;
+}
+
+.text-dev p {
+    text-align: center;
+    width: 500px;
+}
+
+.threeblocks {
+    width: 100%;
+    height: 500px;
+    background-color: #333333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+    padding: 30px
+}
+
+.blocks {
+    margin: 0px 10px;
+    background-color: white;
+    width: 25%;
+    height: 100%;
+}
+.blocks img {
+    width: 100%;
+    height: 25%;
+}
+
+.blocks h3 {
+    color: #333333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 10px;
+}
+
+.blocks p {
+    color: #333333;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+.digital {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.digital p {
+    text-align: center;
+    width: 70%;
+}
+
+.company {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-wrap: row wrap;
+}
+
+.contact {
+    background-color: #2690d3;
+    width: 50%;
+    height: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 30px;
+}
+
+.about {
+    background-color: #333333;
+    width: 50%;
+    height: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 30px;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer .right a {
+    color: #2690d3;
+}

@@ -1,0 +1,170 @@
+.header1 {
+    background-color: lightblue;
+    display: block;
+    height: 300px;
+    width: 100%;
+    float: left;
+}
+
+.hleft {
+    background-color: lightblue;
+    display: block;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+
+.hmid {
+    background-color: rgb(104, 157, 175);
+    display: block;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+
+.hright {
+    background-color: lightblue;
+    display: block;
+    height: 100%;
+    width: 33.33%;
+    float: left;
+}
+
+.navigationtop {
+    background-color: royalblue ;
+    display: block;
+    height: 20%;
+    width: 100%;
+    float: left;
+}
+
+.hero {
+    margin-top: 50px;
+    background-color: rosybrown;
+    display: block;
+    height: 30%;
+    width: 100%;
+    float: left;
+}
+
+.slogan {
+    margin-top: 25px;
+    background-color: greenyellow;
+    display: block;
+    height: 15%;
+    width: 100%;
+    float: left;
+}
+
+.blocks {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: silver;
+    display: block;
+    height: 40%;
+    width: 100%;
+    float: left;
+}
+
+.row1 {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color: silver;
+    display: block;
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+.row2 {
+    margin-bottom: 10px;
+    background-color: silver;
+    display: block;
+    height: 50%;
+    width: 100%;
+    float: left;
+}
+
+.box1 {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: ghostwhite;
+    display: block;
+    height: 90%;
+    width: 31%;
+    float: left;
+}
+
+.box2 {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: ghostwhite;
+    display: block;
+    height: 90%;
+    width: 31%;
+    float: left;
+}
+
+.box3 {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: ghostwhite;
+    display: block;
+    height: 90%;
+    width: 31%;
+    float: left;
+}
+
+.box4 {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: slateblue;
+    display: block;
+    height: 90%;
+    width: 31%;
+    float: left;}
+
+.box5 {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: slateblue;
+    display: block;
+    height: 90%;
+    width: 31%;
+    float: left;
+}
+
+.events {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: slateblue;
+    display: block;
+    height: 90%;
+    width: 31%;
+    float: left;
+}
+
+.navigationmid {
+    margin-top: 25px;
+    background-color: royalblue;
+    display: block;
+    height: 15%;
+    width: 100%;
+    float: right;
+}
+
+.footer1 {
+    margin-top: 50px;
+    background-color: slategrey;
+    display: block;
+    height: 75%;
+    width: 100%;
+    float: left;
+}
+
+.copyright {
+    background-color: darkslategray;
+    display: block;
+    height: 25%;
+    width: 100%;
+    float: left;
+}
